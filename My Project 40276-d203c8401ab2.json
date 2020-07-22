@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "opportune-sylph-226211",
+  "private_key_id": "d203c8401ab2bfedef104d36bf6678e04f4dab02",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJT5DO6pKLxDKd\nCwGu/V9jtuHootCxH7lNp5sXRRFv4ChDc1Drgs+Btn1wHlWtQyCha4bT1rXFtCe/\nEejj+XIf/ui64NeLdksI8iKNh/pwAqfy6YQ/d0o0ld33LkeluubifOwC+eZOc7cP\nJR9Kp6f+34gYBGAARJ73C+yrMpbgBNMTdHclgKcFqTrjJioaM4k4Z5gqZ/Knzj7C\ni/aNVqTm5r3ZUHydVWiamFGkOClFD6vfyNlJ+VdCX3DW1C5zkZg8gYCT4V1es2CC\n1JA5UskHTGldaEi1SnGfhvU1ykJy4mlQNQf17PdNl3MZBdNTz/EZ+rOQ6S4Gs+MR\nPYo8bXKDAgMBAAECggEAIDVcOFbcgoMuC+VGbC56tBP/Gf7uv+ARAEUoMbVpwEoP\ndxc8o6mmtJyzfhxEXffHATyYck1AgPS9hTsC1XLEGS1qI/g0VEplX/WJpLZUUdaC\n84D8GUFnPHmb7V/Ys8HvDd6pziIYgIXQDJrGYmXnoYY3GoycpX5VJragM5XhAM9L\nwf7fO7p5PnngnGTyXF6fIafZoYoO0mKzWtKPwPokbL7fOJVyJAAA1WV14rlkPPoY\nz9XgcWeFz9bb6lwtL3I5SRv8wh1fW3C9sgsD3A7Sj3TZbP1IxPIwHtgXH7RzEWU4\nuBev7dxKbNjPguGm1eHh/jy3gphK1sGcoX5T7+DSeQKBgQD8BIKyj9Q/NuADRE5K\njcKuzYA6cVDW/MZFA4uRXWWgGF9bbaxGhxYzx7QAsVE9NaFsPQnq6r7/1AYX3wfJ\n2uPFPTGKUx1Z9+/vaGtdpJ7TG/W4WC/XZ1WOXH33nE7YlyhqzbIlB+1fT9KiXC+3\nl9pQTmcHtTympY7LdSWQ5i0A6wKBgQDMfe4pQY9UC5mYJkH/YKpvZr3UaujuXjjZ\nDeZLS2kXrplzvmcxjA5uDeH6S/KhPqcUMQSH0tHqKqSZenalxLNr9ZORwn1lAO1u\nhT6PSzXbISzY/bt1JOqk5/BYRLZqxxOtvQkX5WlKQGpDzJ3QpWUe6ACqIRb0OAgj\noaMEZ2iuyQKBgE/L4dJGJk9Jwc5m/18t2bndib93h8A601Cg2b1SVE5HyVG6vTSr\nq0UD86PQgUefRphuD0jZwVZhvPgr/1xTuZEHWjtRK9cD4W3toylIaZ2wmbIgAi3z\nIyzrbltLm8+KtRp0PPbqtqdaL/iGtfks1MxettLC+QxPGZKkahuiNhe3AoGBAMTE\n8GS2dwpyVwt21M6934JupH8/mH+2HpGNtGoDWE63bWVYc8fTcxcnOKk2Z3QM64yc\nVjW0ANWIzvX4Ry7fhZ5+oc8CDNMh/1X31OjhgCMpWxQ5oyXnrfmcTUNCax14DlGB\nsrxRvez66sXuoHTikdkZeXo7ePDq8boHkOtt7ecxAoGBAKb/i9bNTUL2xCEdmYHu\n1sM5NxyFD9NGZFwq68qqvWHzKLEibId8+F/6NR3zJQ5a8qduBnyLo1XuEUi7DeHQ\npul8YelPkoB2HnVISAZSaLWk5nu6XHCr2xAHa6VTCW5aMyBnJdjqKMYVr7HDrRV9\nFvi/Tpw57SfBSS1ooIvRGNkm\n-----END PRIVATE KEY-----\n",
+  "client_email": "dataengineeringprac@opportune-sylph-226211.iam.gserviceaccount.com",
+  "client_id": "106631557990918571917",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dataengineeringprac%40opportune-sylph-226211.iam.gserviceaccount.com"
+}
